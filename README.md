@@ -1,3 +1,4 @@
+# PITCHING VIDEO LINK : https://drive.google.com/file/d/1tcDKon191ttuGTIgh-hze7VuqqrrggU8/view?usp=sharing
 # EventBrainAI
 
 **AI-Powered Corporate Event Orchestration Platform**
