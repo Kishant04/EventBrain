@@ -1,0 +1,21 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Environment files
+.env
+backend/.env
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/.ropeproject
